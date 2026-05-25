@@ -3,10 +3,10 @@
   "elements": [
     {
       "type": "text",
-      "id": "1",
-      "text": "Remote Compose",
-      "color": "#4A148C",
-      "fontSize": 32
+      "id": "3",
+      "text": "Flyme",
+      "color": "#B6C256",
+      "fontSize": 14
     },
     {
       "type": "spacer",
@@ -15,10 +15,10 @@
     },
     {
       "type": "text",
-      "id": "3",
-      "text": "Server-driven UI, rendered natively",
-      "color": "#7E57C2",
-      "fontSize": 14
+      "id": "1",
+      "text": "Remote Compose",
+      "color": "#4A148C",
+      "fontSize": 32
     },
     {
       "type": "spacer",
