@@ -2,13 +2,6 @@
   "backgroundColor": "#FFFFFF",
   "elements": [
     {
-      "type": "text",
-      "id": "1",
-      "text": "Test",
-      "color": "#14188A",
-      "fontSize": 32
-    },
-    {
       "type": "spacer",
       "id": "2",
       "height": 4
